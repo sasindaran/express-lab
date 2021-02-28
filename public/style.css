@@ -1,10 +1,10 @@
+
 #heading{
     background-color: #3b4e87;
      color: white;
 }
-
 #content{
-    background-color: #f1f1f1
+    margin-top: 5px;
 }
 
 body{
@@ -17,4 +17,12 @@ body{
 
 #copy{
     color:#3b4e87;
+}
+
+input
+{
+ width:200px;
+}
+#cag{
+    background-color: white; border-color: black; color: green; height: 30px;
 }

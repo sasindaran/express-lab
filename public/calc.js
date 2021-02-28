@@ -50,7 +50,7 @@ function calc3()
     var fin = new Finance();
     a2=fin.CAGR(p2,r2,n2);
     a2=a2.toFixed("2");
-        document.getElementById("cag").innerHTML="$"+a2;
+        document.getElementById("cag").innerHTML=a2+"%";
 }    
 
 
